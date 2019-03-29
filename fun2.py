@@ -1,0 +1,1 @@
+functions without parameter and with return type
